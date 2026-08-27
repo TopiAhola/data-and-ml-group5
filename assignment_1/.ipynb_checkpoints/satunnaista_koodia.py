@@ -36,9 +36,12 @@ columns = {
 wanted_abbreviations = [  columns[key]  for key in wanted_columns ]
 print("Wanted abbreviations: ", wanted_abbreviations)
 
+# units used
+column_units = {
 
 
-#
+}
+
 
 # columns and their abbreviations
 columns_dictionary = {
