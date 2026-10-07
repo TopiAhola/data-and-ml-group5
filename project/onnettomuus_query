@@ -1,0 +1,8 @@
+Thus, the URL query concerning road traffic accidents in 2019 is in the form:
+https://geo.stat.fi/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=tieliikenne:tieliikenne_2019&outputFormat=SHAPE-ZIP
+https://geo.stat.fi/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=tieliikenne:tieliikenne_2019&outputFormat=csv
+https://geo.stat.fi/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=tieliikenne:tieliikenne_2019&outputFormat=json
+
+
+# Tämä hakee vuoden 2024 csv tiedostona:
+https://geo.stat.fi/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=tieliikenne:tieliikenne_2024&outputFormat=csv
