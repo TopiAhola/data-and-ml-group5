@@ -119,3 +119,5 @@ config.json
 /project/datasets/fmi_cache/
 /project/datasets/fmi_cache/
 /project/datasets/old_cache2/
+
+/project/datasets/checkpoints/
