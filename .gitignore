@@ -115,3 +115,7 @@ tramp
 # Secrets (Always ignore!)
 secrets.json
 config.json
+/project/datasets/old_cache/
+/project/datasets/fmi_cache/
+/project/datasets/fmi_cache/
+/project/datasets/old_cache2/
