@@ -1,0 +1,38 @@
+#  Luokkamuuttujat:
+'''
+vakav = onnettomuuden vakavuus: 1 = kuolemaan johtanut onnettomuus, 2 = loukkaantumiseen johtanut onnettomuus, 3 = vakavaan loukkaantumiseen johtanut onnettomuus
+
+onntyyppi = onnettomuustyyppi: 0 = samat ajosuunnat (ajo suoraan), 1 = samat ajosuunnat (ajo kääntyen), 2 = vastakkaiset ajosuunnat (ajo suoraan), 3 = vastakkaiset ajosuunnat (ajo kääntyen), 4 = risteävät ajosuunnat (ajo suoraan), 5 = risteävät ajosuunnat (ajo kääntyen), 6 = jalankulkijaonnettomuus (suojatiellä), 7 = jalankulkijaonnettomuus (muualla), 8 = tieltä suistuminen, 9 = muu onnettomuus
+'''
+
+
+
+The data cover the following information:
+
+vvonn = year of the accident
+
+kkonn = month of the accident
+
+kello = time of the accident
+
+vakav = seriousness of the accident: 1 = accident resulting in death, 2 = accident resulting in injury, 3 = accident resulting in serious injury
+
+onntyyppi = type of accident: 0 = same direction of travel (going straight), 1 = same direction of travel (turning), 2 = opposite direction of travel (going straight), 3 = opposite direction of travel (turning), 4 = intersecting direction of travel (going straight), 5 = intersecting direction of travel (turning), 6 = pedestrian accident (on pedestrian crossing), 7 = pedestrian accident (elsewhere), 8 = running off the road, 9 = other accident
+
+lkmhapa = number of passenger cars and vans in the accident
+
+lkmlaka = number of buses and lorries in the accident
+
+lkmjk = number of pedestrians in the accident
+
+lkmpp = number of bicycles and light electric vehicles in the accident
+
+lkmmo = number of mopeds in the accident
+
+lkmmp = number of motor cycles in the accident
+
+lkmmuukulk = number of other vehicles in the accident
+
+x = x co-ordinate of the accident
+
+y = y co-ordinate of the acciden
